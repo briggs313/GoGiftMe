@@ -1,4 +1,4 @@
-/*customer css*/
+/*custom css*/
 body{
     background: grey
 }
@@ -6,3 +6,122 @@ img{
     max-width: 100%
     width:auto;
 }
+
+#sqimg{
+    max-width: 50px;
+    width:auto;
+    vertical-align: middle;
+
+#logo{
+    height: 35px;
+    vertical-align: left;
+}
+    .mission{
+            background-color:#F2B346;
+            background-size: 100% auto;
+            background-attachment: fixed;
+            background-position: center center;
+            text-align: center;
+            width: 100%;
+        }
+    .missioneffect{
+            background-image:#F2B346;
+            background-size: 100% auto;
+            background-attachment: fixed;
+            background-position: center center;
+            opacity: .75%;
+            width: 100%;
+            padding:60px;
+        }
+
+    .news{
+            background-color:#6e8898;
+            background-size: 100% auto;
+            background-attachment: fixed;
+            background-position: center center;
+            text-align: center;
+            width: 100%;
+        }
+    .newseffect{
+            background-image:#F2B346;
+            background-size: 100% auto;
+            background-attachment: fixed;
+            background-position: center center;
+            opacity: .75%;
+            width: 100%;
+            padding:60px; 
+        }
+
+    .victim{
+            background-color:#F2B346;
+            background-size: 100% auto;
+            background-attachment: fixed;
+            background-position: center center;
+            text-align: center;
+            width: 100%;
+        }
+    .victimeffect{
+            background-image:#F2B346;
+            background-size: 100% auto;
+            background-attachment: fixed;
+            background-position: center center;
+            opacity: .75%;
+            width: 100%;
+            padding:60px;
+        }
+
+        .donate{
+            background-color:#6e8898;
+            background-size: 100% auto;
+            background-attachment: fixed;
+            background-position: center center;
+            text-align: center;
+            width: 100%;
+        }
+        .donateeffect{
+            background-image:#6e8898;
+            background-size: 100% auto;
+            background-attachment: fixed;
+            background-position: center center;
+            opacity: .75%;
+            width: 100%;
+            padding:60px;
+        }
+
+        @font-face {
+	       font-family: 'RightChalk';
+        src: url(../fonts/RightChalk.ttf);
+	       font-weight: normal;
+	       font-style: normal;
+        text-shadow: 0px 0px 20px (#fffcf7);
+            
+        }
+
+
+
+<style type="text/css">
+		.cola,
+		.colb,
+		.colc,
+        .cold,{
+		}
+		
+		.cola {
+			background: #6e8898;
+            border: 2px #FFFCF7 solid;
+            
+		}
+		
+		.colb {
+			background: #6e8898;
+            border: 2px #FFFCF7 solid;
+		}
+		
+		.colc {
+			background: #6e8898;
+            border: 2px #FFFCF7 solid;
+		}
+        .cold {
+			background: #6e8898;
+            border: 2px #FFFCF7 solid;
+		}
